@@ -1,23 +1,29 @@
 # Spaceship Titanic Prediction
 ---
-
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](spaceship-titanic.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/maria-aguilera/spaceship-titanic)
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)
 
 <div style="text-align: justify"> Focus on data cleaning, feature relationship, missing values, data cleaning, feature engineering and modeling pipelines with very useful visuals. 
 
-<br>
-<br>
+* The data can we downloaded in [Kaggle](https://www.kaggle.com/competitions/spaceship-titanic)
 
-![alt-text-1](images/Age.png "title-1") ![alt-text-2](images/Cabin%20and%20Passenger%20Group.png "title-2")
-<img src="images/Cabin Groups.png" height = '267x'/> 
+<br>
+<br>
 <div style="text-align: justify"> 
-<img src="images/CabinRegion.png" width = '420' /><img src="images/Homeplanet and Deck Relationship.png" width = '420' height = ''/> 
-<img src="images/Correlation Matrix.png" width="420"/><img src="images/PassengerLinearRegressionCabin.png" width="420" height = "300"/>
+<img src ="images/Age.png" width = "1000"/> 
+<img src = "images/Cabin and Passenger Group.png" width = 1000/>
+<img src="images/Cabin Groups.png" height = '240' width = "1000"/> 
+<table><tr>
+<td><img src="images/CabinRegion.png" style = "width: 500px" style = "height: 450px" /></td>
+<td> <img src="images/Homeplanet and Deck Relationship.png" style = "width: 500px "  style = "height: 450px"/> </td>
+</tr><table>
+
+
+<img src="images/Correlation Matrix.png" width="500" height = '350'/><img src="images/PassengerLinearRegressionCabin.png" width="500" height = "350"/>
 
 <div style="text-align: justify"> 
-<center> <img src="images/Model Results.png"/> 
+<img src="images/Model Results.png" width = '1000'/> 
 <br>
-
 
 
