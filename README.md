@@ -12,18 +12,17 @@
 <br>
 <div style="text-align: justify"> 
 <img src ="images/Age.png" width = "1000"/> 
-<img src = "images/Cabin and Passenger Group.png" width = 1000/>
-<img src="images/Cabin Groups.png" height = '240' width = "1000"/> 
+
+<img src="images/Cabin Groups.png" height = '300px' width = "1000px"/> 
 <table><tr>
-<td><img src="images/CabinRegion.png" style = "width: 500px"  height= "250px" /></td>
-<td> <img src="images/Homeplanet and Deck Relationship.png" style = "width: 500px" height= "250px" /> </td>
+<td><img src="images/CabinRegion.png"style= "width: 500px" /></td>
+<td> <img src="images/Homeplanet and Deck Relationship.png" style= "width: 500px" /> </td>
 </tr><table>
 <tr><table>
-<td><img src="images/Correlation Matrix.png" width="500px" height = '350'/></td>
-<td><img src="images/PassengerLinearRegressionCabin.png" width="500px" height = "350"/></td>
+<td><img src="images/Correlation Matrix.png" style= "width: 500px; height: 300px"/></td>
+<td><img src="images/PassengerLinearRegressionCabin.png" style= "width: 500px; height: 300px"/></td>
 <tr><table>
 <div style="text-align: justify"> 
-<img src="images/Model Results.png" width = '1000'/> 
+<img src="images/Model Results.png" style= "width: 1000px; height: 500px"/> 
 <br>
-
 
